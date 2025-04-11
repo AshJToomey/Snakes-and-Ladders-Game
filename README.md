@@ -1,8 +1,4 @@
-Here’s a polished and professional README.md for your Ashley’s Snakes and Ladders Game (Refactored) project:
-
-⸻
-
-Ashley’s Snakes and Ladders Game (Refactored)
+**Ashley’s Snakes and Ladders Game (Refactored)**
 
 A Python-based visual Snakes and Ladders game using the Turtle graphics module. This version is fully interactive and features custom player icons, dice visuals, and a board with snakes and ladders—perfect for a fun two-player experience!
 
@@ -71,7 +67,3 @@ You can easily modify:
 License
 
 MIT License
-
-⸻
-
-Let me know if you want help generating the image files, or turning this into a one-player mode vs. AI!
